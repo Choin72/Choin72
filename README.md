@@ -17,13 +17,29 @@ choinchoi0331@gmail.com
 ### 🛠️ Frameworks & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat_square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat_square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat_square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat_square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat_square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat_square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat_square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat_square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat_square&logo=opencv&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat_square&logo=ros&logoColor=white)
 ### 🔧 Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat_square&logo=arduino&logoColor=white)
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat_square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat_square&logo=mysql&logoColor=white)
+### 🧰 Tools
+![Anaconda](https://img.shields.io/badge/Anaconda-42B029?style=flat_square&logo=anaconda&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat_square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat_square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat_square&logo=googlecolab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat_square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat_square&logo=notion&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=linux&logoColor=black)
+
 
 ## 🎒 Activities
 | 활동명 | 기간 | 설명 |
