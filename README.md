@@ -1,5 +1,6 @@
 ##  👋 Hi there, I'm Choin Choi
 🌱 I'm interested in ML/DL, Computer Vision and Robotics
+
 🔗 [Check out my portfolio](https://www.notion.so/Portfolio-20c980cebe47805ca8dfc9f30a9bfdc6?source=copy_link)
 
 ## 🎓 Education
