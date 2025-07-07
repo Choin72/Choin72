@@ -1,12 +1,8 @@
-## Hi there 👋
-### 🎂 Birth
-1999.03.31
-### ✉️ E-Mail
-choin22222@naver.com
-choinchoi0331@gmail.com
+## Hi there 👋 I'm Choin Choi
+🌱 I'm interested in ML/DL, Computer Vision and Robotics
 
-## 🙋‍♂️ About me
-🌱 I'm currently learning ML/DL, Computer Vision and Robotics
+## 🎓 Education
+B.S | Sangmyung University, Department of Human centered Artificial intelligence (2019.03 ~ 2025.08)
 
 ## Stacks
 ### 💻 Programming Languages
@@ -40,13 +36,25 @@ choinchoi0331@gmail.com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat_square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat_square&logo=linux&logoColor=black)
 
+## 📜 Projects
+- ⚾ [**야구 타격 성과 예측을 위한 배트 트래킹 및 타격 지표 기반 비선형 회귀분석 모델 적용과 분석**](https://github.com/Choin72/Batting_Performance_Prediction_by_Bat_Tracking)  
+  _기간: 2024.06.01 ~ 2024.08.01_
 
-## 🎒 Activities
-| 활동명 | 기간 | 설명 |
-|--------|------|------|
-| **딥러닝 스터디 동아리** | 2023.04 ~ 2023.11 | • 학과 내 딥러닝 동아리 |
-| **학과 스터디 동아리 ‘BAMBOO’** | 2024.03 ~ 2024.12 | • 학과 내 종합 스터디 동아리<br>• 논문 스터디 참가 |
-| **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스에서 주최한 부트캠프 수강<br>• 로보틱스 프로젝트 다수 수행 |
+- 😴 [**졸음 운전 조기 감지 모델**](https://github.com/Early-Drowsiness-Detection/Drowsiness_Detection_DEMO)  
+  _기간: 2024.01 ~ 2025.02_
+
+- 🖼️ [**ArtGuard** - 자율 로봇 기반 미술품 상태 점검 시스템](https://github.com/Rokey-3-D-2/rokey_pjt)  
+  _기간: 2025.05.09 ~ 2025.05.15_
+
+- 🚨 [**CODA** - 교통사고 현장 보존 로봇 시스템](https://github.com/Rokey-3-D-autonomous/coda)  
+  _기간: 2025.05.16 ~ 2025.05.22_
+
+- 🎨 [**DrawBot** - User-Driven Drawing Replication Using a Robot Arm](https://github.com/Rokey-3-D-2/dr_writer)  
+  _기간: 2025.05.30 ~ 2025.06.05_
+
+- 💊 [**PharmacyBot** - Voice-Driven Medicine Recommendation & Robotic Dispensing System](https://github.com/Rokey-D-3/pharmacy_main)  
+  _기간: 2025.06.09 ~ 2025.06.20_
+
 
 ## 🏆 Awards
 | 날짜 | 대회 | 수상 | 주최기관 |
@@ -55,3 +63,10 @@ choinchoi0331@gmail.com
 | 2024년 11월 5일 | 🏆 휴먼지능정보공학전공 졸업 포트폴리오 페스티벌 | 대상 | 상명대학교 |
 | 2024년 11월 23일 | 🏆 한국감성과학회 추계학술대회 | 장려상 | 한국감성과학회 |
 | 2025년 2월 4일 | 🏆 캡스톤디자인 경진대회 | 최우수상 | 상명대학교 |
+
+## 🎒 Activities
+| 활동명 | 기간 | 설명 |
+|--------|------|------|
+| **딥러닝 스터디 동아리** | 2023.04 ~ 2023.11 | • 학과 내 딥러닝 동아리 |
+| **학과 스터디 동아리 ‘BAMBOO’** | 2024.03 ~ 2024.12 | • 학과 내 종합 스터디 동아리<br>• 논문 스터디 참가 |
+| **Doosan Rokey 로보틱스 부트캠프** | 2025.01 ~ 2025.07 | • 두산 로보틱스에서 주최한 부트캠프 수강<br>• 로보틱스 프로젝트 다수 수행 |
