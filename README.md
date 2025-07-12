@@ -1,7 +1,7 @@
 ##  👋 Hi there, I'm Choin Choi
 🌱 I'm interested in ML/DL, Computer Vision and Robotics
 
-🔗 [Check out my portfolio](https://www.notion.so/Portfolio-20c980cebe47805ca8dfc9f30a9bfdc6?source=copy_link)
+🔗 [Check out my portfolio]([https://www.notion.so/Portfolio-20c980cebe47805ca8dfc9f30a9bfdc6?source=copy_link](https://wonderful-dress-6d2.notion.site/Portfolio-20c980cebe47805ca8dfc9f30a9bfdc6))
 
 ## 🎓 Education
 B.S | Sangmyung University, Department of Human centered Artificial intelligence (2019.03 ~ 2025.08)
