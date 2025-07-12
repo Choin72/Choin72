@@ -6,7 +6,7 @@
 ## 🎓 Education
 B.S | Sangmyung University, Department of Human centered Artificial intelligence (2019.03 ~ 2025.08)
 
-## 🧠 Stacks
+## 🧠 Tech Stack
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat_square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat_square&logo=r&logoColor=white)
