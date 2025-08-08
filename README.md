@@ -6,6 +6,7 @@
 
 ## 🎓 Education
 B.S | Sangmyung University, Department of Human centered Artificial intelligence (2019.03 ~ 2025.08)
+M.S | Konkuk University, Department of Artificial Intelligence (2025.09 ~ )
 
 ## 🧠 Tech Stack
 ### 💻 Programming Languages
